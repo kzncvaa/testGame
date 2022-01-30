@@ -1,0 +1,16 @@
+{
+  "name": "Arina Game 🇺🇦",
+  "short_name": "Game",
+  "start_url": "/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#121212",
+  "theme_color": "#4caf50",
+  "icons": [
+    {
+      "src": "/assets/logo.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ]
+}
